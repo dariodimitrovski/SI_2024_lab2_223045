@@ -17,7 +17,7 @@
 # Тест случаи според Multiple Condition
 
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
-  **T T T**
-  **T F X**
-  **T T F**
-  **F X X**
+  **T T T** \
+  **T F X** \
+  **T T F** \
+  **F X X** \
