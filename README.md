@@ -20,4 +20,4 @@ if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(
   **T T T** \
   **T F X** \
   **T T F** \
-  **F X X** \
+  **F X X** 
